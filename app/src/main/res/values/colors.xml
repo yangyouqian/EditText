@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d33a31</color>
+    <color name="colorPrimaryDark">#d33a31</color>
+    <color name="colorAccent">#c9cbcc</color>
+    <color name="titleTextView">#FFFFFF</color>
+    <color name="background">#d33a31</color>
+    <color name="hintColor">#c9cbcc</color>
+</resources>

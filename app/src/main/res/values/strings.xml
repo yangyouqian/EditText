@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicEmailLogin</string>
+    <string name="email_register">网易邮箱账号登录</string>
+    <string name="forget_pwd">忘记密码?</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_email">请输入邮箱账号</string>
+</resources>
